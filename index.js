@@ -15,5 +15,5 @@ app.use('/graph', graphqlHTTP({
 
 // start the express server on the defined port
 app.listen(PORT, () => {
-    console.log(`Graph QL API is up and running on Port ${PORT}`);
+    console.log(`GraphQL API is up and running on Port ${PORT}`);
 })
