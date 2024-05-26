@@ -1,0 +1,6 @@
+version: ""
+services:
+  web:
+   image: aakash1492/my-jenkins-app:latest
+   ports: 
+      - "4000:4000"
