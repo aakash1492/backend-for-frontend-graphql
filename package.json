@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lakindu2002/graph-ql-backend-for-frontend.git"
+    "url": "git+https://github.com/aakash1492/backend-for-frontend-graphql.git"
   },
   "keywords": [
     "GraphQL",
@@ -17,12 +17,12 @@
     "API",
     "Backend-For-Frontend"
   ],
-  "author": "lakindu",
+  "author": "Akash",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lakindu2002/graph-ql-backend-for-frontend/issues"
+    "url": "https://github.com/aakash1492/backend-for-frontend-graphql/issues"
   },
-  "homepage": "https://github.com/lakindu2002/graph-ql-backend-for-frontend#readme",
+  "homepage": "https://github.com/aakash1492/backend-for-frontend-graphql#readme",
   "dependencies": {
     "express": "^4.17.3",
     "express-graphql": "^0.12.0",
